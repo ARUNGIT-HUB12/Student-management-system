@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "A full CRUD student management system with real-time search, sortable tables, side-panel editor, and client-side persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
